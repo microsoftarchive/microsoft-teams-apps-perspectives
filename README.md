@@ -1,3 +1,5 @@
+# This repository has been archived. The code, app package, and Dataverse solution for this app can be found in the [microsoft/teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates) open source repository.
+
 ## Overview
 
 The Perspectives app is a place to listen and be heard in your organization. A simple search-and-browse experience makes it easy to find interesting discussions, whether you’re looking to share your perspective or tap into the collective knowledge of your team. The most relevant content rises to the top when team members upvote a response or the discussion’s creator flags one as “Recommended.” The app can be used for employee engagement, diversity and inclusion efforts, support systems, process Q&As, and more. Refer [here](https://aka.ms/TeamsPerspectivesDocs) for more detailed view of the feature.
